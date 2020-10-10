@@ -67,4 +67,7 @@ html {
   .ptext {
     font-size: 15px;
   }
+  .section {
+    font-size: 12px;
+  }
 }
